@@ -22,20 +22,29 @@ SSIPMT RAIPUR
 
 1. Open terminal in this folder (right-click -> open terminal)
 2. RUN:
+    ```
+    sudo apt-get update
+    ```
+    and then
+    ```
+    sudo apt upgrade
+    ```
+3. Restart jetson nano
+4. RUN:
    ```
     gedit ~/.bashrc
    ``` 
-3. at the end, in a new line, add the following line:
+5. at the end, in a new line, add the following line:
     ```
     export OPENBLAS_CORETYPE=ARMV8
     ```
-4. Save and exit the gedit text editor.
-5. [IMPORTANT] Close the terminal and open a new terminal in this folder.
-6. RUN:
+6. Save and exit the gedit text editor.
+7. [IMPORTANT] Close the terminal and open a new terminal in this folder.
+8. RUN:
     ```
     chmod +x ./install.sh
     ```
-6. RUN:
+9. RUN:
     ```
     sudo ./install.sh
     ```

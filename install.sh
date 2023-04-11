@@ -1,8 +1,5 @@
 #!/bin/bash
 
-sudo apt-get update -y
-sudo apt-get upgrade -y
-
 sudo apt-get install libhdf5-serial-dev hdf5-tools libhdf5-dev zlib1g-dev zip libjpeg8-dev liblapack-dev libblas-dev gfortran -y
  
 sudo pip3 install -U pip testresources setuptools==49.6.0 -y
