@@ -6,7 +6,16 @@ Head of Department, AI/ML
 SSIPMT RAIPUR
 ```
 
+## Notebooks
 
+- [Logistic Regression - Titanic](https://colab.research.google.com/drive/1eJ84JljOI3Nvk2JnYXTmAVARMC4BB2jt?usp=sharing)
+- [Text Classification - IMDb movie reviews](https://colab.research.google.com/drive/17uzyo3ZqTaopkZLiR128pDjW80kyGXvU?usp=sharing)
+- [Programming Language Classification - Stackoverflow Questions](https://colab.research.google.com/drive/1wkC6NjLmGi2uSokNtrpqwiLqfLAKJ2Nf?usp=sharing)
+- [Image Classification - MNIST digit recognition](https://colab.research.google.com/drive/1fsUHqh39vRWHYOCugkDMD8GRpXt0ynDa?usp=sharing)
+- [Convolutional Neural Networks - CIFAR10 Image Classification](https://colab.research.google.com/drive/1RXFkLoqLscJ3xNiywgzfo3V7yu-dOAXp?usp=sharing)
+- [Neural Networks - Fashion MNIST Image Classification](https://colab.research.google.com/drive/1KThdoeQWGL1Qo-RL8hamtfVPk0rasdut?usp=sharing)
+- [Flowers Image Classification](https://colab.research.google.com/drive/1TZ64xRRIBUcqKGWKdhG6xvA4BmfrMxim?usp=sharing)
+- [California House Price Prediction - Regression](https://colab.research.google.com/drive/1aU39vt1XHshxPZk5wf0VxcB_I7KdD4_n?usp=sharing)
 
 
 ## Clone this repository
