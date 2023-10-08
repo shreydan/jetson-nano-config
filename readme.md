@@ -6,6 +6,15 @@ Head of Department, AI/ML
 SSIPMT RAIPUR
 ```
 
+## Clone this repository
+
+```
+git clone https://github.com/shreydan/jetson-nano-config.git
+```
+```
+cd jetson-nano-config
+```
+
 ## Instructions for OS install
 1. open [https://developer.nvidia.com/embedded/downloads#?tx=$product,jetson_nano](https://developer.nvidia.com/embedded/downloads#?tx=$product,jetson_nano)
 2. Scroll down and download the following SD card image:
@@ -20,7 +29,7 @@ SSIPMT RAIPUR
 
 ## Instructions for ML setup
 
-1. Open terminal in this folder (right-click -> open terminal)
+1. Open terminal in this folder `jetson-nano-config` (right-click -> open terminal)
 2. RUN:
     ```
     sudo apt-get update
